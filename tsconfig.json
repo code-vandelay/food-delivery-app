@@ -11,6 +11,8 @@
     "skipLibCheck": true,
     "isolatedModules": true,
     "experimentalDecorators": true,
+    /*added below property*/
+    "strictPropertyInitialization": false,
     "importHelpers": true,
     "target": "ES2022",
     "module": "preserve"
